@@ -1,0 +1,3 @@
+<?php
+// Destruam et aedificabo.
+?>

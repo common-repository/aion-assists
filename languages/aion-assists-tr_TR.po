@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aion Assists - Customer Service 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Dashboard"
+msgstr "Gösterge Tablosu"
+
+msgid "Sessions"
+msgstr "Oturumlar"
+
+msgid "Conversions"
+msgstr "Dönüşümler"
+
+msgid "Session Details"
+msgstr "Oturum Detayları"
+
+msgid "Session ID"
+msgstr "Oturum Kimliği"
+
+msgid "Customer"
+msgstr "Müşteri"
+
+msgid "Session Started"
+msgstr "Oturum Başlangıcı"
+
+msgid "Welcome"
+msgstr "Hoş Geldiniz"
+
+msgid "Customer Service"
+msgstr "Müşteri Hizmetleri"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "I need some help."
+msgstr "Yardıma ihtiyacım var."
+
+msgid "What is the status of my order?"
+msgstr "Siparişimin durumu nedir?"
+
+msgid "I want to update my order address."
+msgstr "Sipariş adresimi güncellemek istiyorum."
+
+msgid "What are the payment methods?"
+msgstr "Ödeme yöntemleri nelerdir?"
+
+msgid "Do you want to end your session?"
+msgstr "Oturumunuzu sonlandırmak istiyor musunuz?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Enter your message..."
+msgstr "Mesajınızı girin..."
+
+msgid "Successful Operations"
+msgstr "Başarılı İşlemler"
+
+msgid "Chatbot Settings"
+msgstr "Sohbet Robotu Ayarları"
+
+msgid "Select the operations you want the Customer Care service to perform."
+msgstr "Müşteri Hizmetlerinin gerçekleştirmesini istediğiniz işlemleri seçin."
+
+msgid "Allow to view order status."
+msgstr "Sipariş durumunu görüntülemeye izin ver."
+
+msgid "A tool where the customer can view the order status by entering the order number."
+msgstr "Müşterinin sipariş numarasını girerek sipariş durumunu görüntüleyebileceği bir araç."
+
+msgid "Allow to view the billing address."
+msgstr "Fatura adresini görüntülemeye izin ver."
+
+msgid "A tool where the customer can view their billing address by entering their order number and email address."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek fatura adresini görüntüleyebileceği bir araç."
+
+msgid "A tool where the customer can view the creation date of the order by entering the order number."
+msgstr "Müşterinin sipariş numarasını girerek siparişin oluşturulma tarihini görüntüleyebileceği bir araç."
+
+msgid "Allow to view the creation date of the order."
+msgstr "Siparişin oluşturulma tarihini görüntülemeye izin ver."
+
+msgid "A tool where the customer can view their shipping address by entering their order number and email address."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek gönderim adresini görüntüleyebileceği bir araç."
+
+msgid "Allow to view the shipping address."
+msgstr "Gönderim adresini görüntülemeye izin ver."
+
+msgid "Allow to view order items."
+msgstr "Sipariş kalemlerini görüntülemeye izin ver."
+
+msgid "A tool where the customer can enter their order number and email address to view the items of the order."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek siparişin kalemlerini görüntüleyebileceği bir araç."
+
+msgid "Allow to view stock status."
+msgstr "Stok durumunu görüntülemeye izin ver."
+
+msgid "A tool where the customer can find out the stock status of a product."
+msgstr "Müşterinin bir ürünün stok durumunu öğrenebileceği bir araç."
+
+msgid "Allow to view an order return status."
+msgstr "Bir siparişin iade durumunu görüntülemeye izin ver."
+
+msgid "A tool where the customer can enter the order number and e-mail address to view the return status of the order."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek siparişin iade durumunu görüntüleyebileceği bir araç."
+
+msgid "Allow to view which payment gateways are used."
+msgstr "Hangi ödeme kapılarının kullanıldığını görüntülemeye izin ver."
+
+msgid "A tool that can display which payment methods your store allows for customers."
+msgstr "Mağazanızın müşteriler için hangi ödeme yöntemlerine izin verdiğini gösterebilen bir araç."
+
+msgid "Allow to view which zones are shipping to."
+msgstr "Hangi bölgelere gönderim yapıldığını görüntülemeye izin ver."
+
+msgid "A tool that allows a user to view information about which regions your store ships to."
+msgstr "Kullanıcının mağazanızın hangi bölgelere gönderim yaptığı hakkında bilgi görüntüleyebilmesini sağlayan bir araç."
+
+msgid "Allow adding and updating notes to the order."
+msgstr "Siparişe not ekleme ve güncelleme izni ver."
+
+msgid "A tool that allows the customer to add or update a note to their order by entering their order number and email address."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek siparişine not eklemesine veya mevcut notu güncellemesine olanak tanıyan bir araç."
+
+msgid "Allow updating the shipping address."
+msgstr "Gönderim adresini güncelleme izni ver."
+
+msgid "A tool that allows the customer to update the delivery address by entering the order number and email address."
+msgstr "Müşterinin sipariş numarası ve e-posta adresini girerek teslimat adresini güncelleyebilmesine olanak tanıyan bir araç."
+
+msgid "Allow product description with sales talk."
+msgstr "Ürün açıklamasına satış konuşması ekleme izni ver."
+
+msgid "A tool that provides customers with product descriptions in the event of a product inquiry. If there is an existing description for the product, it will be displayed. If not, a response will be crafted by GPT, taking the product title as a reference and responding in the tone of a marketer."
+msgstr "Müşterilere ürün sorgulaması durumunda ürün açıklamaları sağlayan bir araç. Ürün için mevcut bir açıklama varsa bu görüntülenir. Aksi takdirde, ürün başlığını referans alarak GPT tarafından bir pazarlamacının tonunda bir yanıt oluşturulur."
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Company Preferences"
+msgstr "Şirket Tercihleri"
+
+msgid "Which shipping company is used for delivery?"
+msgstr "Teslimat için hangi kargo şirketi kullanılıyor?"
+
+msgid "Shipping Company"
+msgstr "Kargo Şirketi"
+
+msgid "What are the return policies and how to make a return?"
+msgstr "İade politikaları nelerdir ve nasıl iade yapılır?"
+
+msgid "Return Policies"
+msgstr "İade Koşulları"
+
+msgid "What are the warranty terms?"
+msgstr "Garanti şartları nelerdir?"
+
+msgid "Warranty Terms"
+msgstr "Garanti Şartları"
+
+msgid "What is the shipping/delivery time for orders?"
+msgstr "Siparişler için nakliye/teslimat süresi nedir?"
+
+msgid "Shipping Time"
+msgstr "Nakliye Süresi"
+
+msgid "What is the customer service phone number?"
+msgstr "Müşteri hizmetleri telefon numarası nedir?"
+
+msgid "Customer Service Phone Number"
+msgstr "Müşteri Hizmetleri Telefon Numarası"
+
+msgid "What is the customer service email address?"
+msgstr "Müşteri hizmetleri e-posta adresi nedir?"
+
+msgid "Customer Service Email Address"
+msgstr "Müşteri Hizmetleri E-posta Adresi"
+
+msgid "What is the minimum purchase amount to qualify for free shipping?"
+msgstr "Ücretsiz kargo için uygun olmak için minimum satın alma miktarı nedir?"
+
+msgid "Free Shipping Threshold"
+msgstr "Ücretsiz Kargo Eşiği"
+
+msgid "When will the refund be credited to bank account?"
+msgstr "İade ne zaman banka hesabına aktarılacak?"
+
+msgid "Refund Duration"
+msgstr "İade Süresi"
+
+msgid "Save Preferences"
+msgstr "Tercihleri Kaydet"
+
+msgid "Customize"
+msgstr "Özelleştir"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Choose a theme for the chatbot interface."
+msgstr "Sohbetbot arayüzü için bir tema seçin."
+
+msgid "Chat Button Texts"
+msgstr "Sohbet Düğme Metinleri"
+
+msgid "Customize the text for the chat initiation buttons."
+msgstr "Sohbet başlatma düğmeleri için metni özelleştirin."
+
+msgid "Welcome Title"
+msgstr "Hoşgeldiniz Başlığı"
+
+msgid "Title before the chat is started."
+msgstr "Sohbet başlamadan önce başlık."
+
+msgid "Welcome Message Text"
+msgstr "Hoşgeldiniz Mesaj Metni"
+
+msgid "Information letter in the form before the chat is initiated."
+msgstr "Sohbet başlatılmadan önce formdaki bilgi mektubu."
+
+msgid "Chatbot Title"
+msgstr "Chatbot Başlığı"
+
+msgid "Title when chat is started."
+msgstr "Sohbet başladığında başlık."
+
+msgid "First Message or Marketing"
+msgstr "İlk Mesaj veya Pazarlama"
+
+msgid "Add a first message when the chat is started."
+msgstr "Sohbet başladığında bir ilk mesaj ekleyin."
+
+msgid "First Message"
+msgstr "İlk Mesaj"
+
+msgid "Href/Link for First Message"
+msgstr "İlk Mesaj için Href/Bağlantı"
+
+msgid "Save Customize"
+msgstr "Özelleştirmeyi Kaydet"
+
+msgid "Welcome to the Setup Wizard"
+msgstr "Kurulum Sihirbazına Hoş Geldiniz"
+
+msgid "Your plugin has been successfully activated."
+msgstr "Eklentiniz başarıyla etkinleştirildi."
+
+msgid "If you have chosen one of our \"Advanced\" or \"Enterprise\" packages, please select the \"Premium\" option."
+msgstr "Eğer \"Advanced\" veya \"Enterprise\" paketlerimizden birini seçtiyseniz, lütfen \"Premium\" seçeneğini seçin."
+
+msgid "If you want to experience Aion Assists for free, you must enter your OpenAI API key. Your license key is generated automatically."
+msgstr "Aion Assists'i ücretsiz denemek istiyorsanız, OpenAI API anahtarınızı girmelisiniz. Lisans anahtarınız otomatik olarak oluşturulur."
+
+msgid "Your Plan:"
+msgstr "Planınız:"
+
+msgid "License Key:"
+msgstr "Lisans Anahtarı:"
+
+msgid "OpenAI API Key:"
+msgstr "OpenAI API Anahtarı:"
+
+msgid "Company Name:"
+msgstr "Şirket Adı:"
+
+msgid "Website URL:"
+msgstr "Web Sitesi URL'si:"
+
+msgid "License Key"
+msgstr "Lisans Anahtarı"
+
+msgid "OpenAI API Key"
+msgstr "OpenAI API Anahtarı"
+
+msgid "Company Name"
+msgstr "Şirket Adı"
+
+msgid "Complete Installation"
+msgstr "Kurulumu Tamamla"
+
+msgid "Your settings have been successfully saved."
+msgstr "Ayarlarınız başarıyla kaydedildi."
+
+msgid "Check if you started the free trial from the \"Plans and Pricing\" page."
+msgstr "Ücretsiz deneme sürümünü \"Planlar ve Fiyatlandırma\" sayfasından başlattıysanız işaretleyin."
+
+msgid "Click here to start the free trial."
+msgstr "Ücretsiz deneme sürümünü başlatmak için buraya tıklayın."
+
+msgid "Session Details: "
+msgstr "Oturum Detayları: "
+
+msgid "Session ID: "
+msgstr "Oturum Kimliği: "
+
+msgid "Customer: "
+msgstr "Müşteri: "
+
+msgid "Session Started: "
+msgstr "Oturum Başladı: "
+
+msgid "Show Summary"
+msgstr "Özeti Göster"
+
+msgid "Session Summary: "
+msgstr "Oturum Özeti: "
+
+msgid "Please enter your name and email address before contacting customer service."
+msgstr "Lütfen müşteri hizmetleri ile iletişime geçmeden önce adınızı ve e-posta adresinizi girin."
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Preferences"
+msgstr "Tercihler"
+
+msgid "Customize"
+msgstr "Özelleştir"
+
+msgid "Setup Wizard"
+msgstr "Kurulum Sihirbazı"
+
+msgid "Hello! How can we help you?"
+msgstr "Merhaba! Nasıl yardımcı olabiliriz?"
+
+msgid "Click to view frequently asked questions."
+msgstr "Sıkça sorulan soruları görmek için tıklayın."
+
+msgid "Let's start chat!"
+msgstr "Sohbeti başlatalım!"
+
+msgid "Your current plan does not support message saving and viewing. To access this feature, you need to upgrade to the 'Enterprise' plan."
+msgstr "Mevcut planınız mesaj kaydetme ve görüntülemeyi desteklemiyor. Bu özelliğe erişmek için 'Kurumsal' plana yükseltmeniz gerekmektedir."
+
+msgid "Click here to view plans."
+msgstr "Planları görmek için buraya tıklayın."
+
+msgid "To use these features, you need to purchase the plugin."
+msgstr "Bu özellikleri kullanmak için eklentiyi satın almanız gerekiyor."
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "FAQ Link"
+msgstr "SSS Bağlantısı"
+
+msgid "Add a link to the FAQ section."
+msgstr "SSS bölümüne bir bağlantı ekleyin."
+
+msgid "To use all features, you need to upgrade to the enterprise plan."
+msgstr "Tüm özellikleri kullanmak için kurumsal plana yükseltmeniz gerekiyor."
+

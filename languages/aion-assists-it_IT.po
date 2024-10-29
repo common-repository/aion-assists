@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aion Assists - Customer Service 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Sessions"
+msgstr "Sessioni"
+
+msgid "Conversions"
+msgstr "Conversioni"
+
+msgid "Session Details"
+msgstr "Dettagli della Sessione"
+
+msgid "Session ID"
+msgstr "ID Sessione"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Session Started"
+msgstr "Sessione Avviata"
+
+msgid "Welcome"
+msgstr "Benvenuto"
+
+msgid "Customer Service"
+msgstr "Servizio Clienti"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "I need some help."
+msgstr "Ho bisogno di aiuto."
+
+msgid "What is the status of my order?"
+msgstr "Qual è lo stato del mio ordine?"
+
+msgid "I want to update my order address."
+msgstr "Voglio aggiornare l'indirizzo del mio ordine."
+
+msgid "What are the payment methods?"
+msgstr "Quali sono i metodi di pagamento?"
+
+msgid "Do you want to end your session?"
+msgstr "Vuoi terminare la sessione?"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "No"
+msgstr "No"
+
+msgid "Enter your message..."
+msgstr "Inserisci il tuo messaggio..."
+
+msgid "Successful Operations"
+msgstr "Operazioni Riuscite"
+
+msgid "Chatbot Settings"
+msgstr "Impostazioni del Chatbot"
+
+msgid "Select the operations you want the Customer Care service to perform."
+msgstr "Seleziona le operazioni che desideri che il servizio di assistenza clienti esegua."
+
+msgid "Allow to view order status."
+msgstr "Consenti di visualizzare lo stato dell'ordine."
+
+msgid "A tool where the customer can view the order status by entering the order number."
+msgstr "Uno strumento in cui il cliente può visualizzare lo stato dell'ordine inserendo il numero dell'ordine."
+
+msgid "Allow to view the billing address."
+msgstr "Consenti di visualizzare l'indirizzo di fatturazione."
+
+msgid "A tool where the customer can view their billing address by entering their order number and email address."
+msgstr "Uno strumento in cui il cliente può visualizzare il proprio indirizzo di fatturazione inserendo il numero dell'ordine e l'indirizzo email."
+
+msgid "A tool where the customer can view the creation date of the order by entering the order number."
+msgstr "Uno strumento in cui il cliente può visualizzare la data di creazione dell'ordine inserendo il numero dell'ordine."
+
+msgid "Allow to view the creation date of the order."
+msgstr "Consenti di visualizzare la data di creazione dell'ordine."
+
+msgid "A tool where the customer can view their shipping address by entering their order number and email address."
+msgstr "Uno strumento in cui il cliente può visualizzare il proprio indirizzo di spedizione inserendo il numero dell'ordine e l'indirizzo email."
+
+msgid "Allow to view the shipping address."
+msgstr "Consenti di visualizzare l'indirizzo di spedizione."
+
+msgid "A tool where the customer can view the creation date of the order by entering the order number."
+msgstr "Uno strumento in cui il cliente può visualizzare la data di creazione dell'ordine inserendo il numero dell'ordine."
+
+msgid "Allow to view order items."
+msgstr "Consenti di visualizzare gli articoli dell'ordine."
+
+msgid "A tool where the customer can enter their order number and email address to view the items of the order."
+msgstr "Uno strumento in cui il cliente può inserire il numero dell'ordine e l'indirizzo email per visualizzare gli articoli dell'ordine."
+
+msgid "Allow to view stock status."
+msgstr "Consenti di visualizzare lo stato delle scorte."
+
+msgid "A tool where the customer can find out the stock status of a product."
+msgstr "Uno strumento in cui il cliente può scoprire lo stato delle scorte di un prodotto."
+
+msgid "Allow to view an order return status."
+msgstr "Consenti di visualizzare lo stato di reso dell'ordine."
+
+msgid "A tool where the customer can enter the order number and e-mail address to view the return status of the order."
+msgstr "Uno strumento in cui il cliente può inserire il numero dell'ordine e l'indirizzo email per visualizzare lo stato di reso dell'ordine."
+
+msgid "Allow to view which payment gateways are used."
+msgstr "Consenti di visualizzare quali gateway di pagamento vengono utilizzati."
+
+msgid "A tool that can display which payment methods your store allows for customers."
+msgstr "Uno strumento che può visualizzare quali metodi di pagamento il tuo negozio permette ai clienti."
+
+msgid "Allow to view which zones are shipping to."
+msgstr "Consenti di visualizzare quali zone vengono spedite."
+
+msgid "A tool that allows a user to view information about which regions your store ships to."
+msgstr "Uno strumento che consente a un utente di visualizzare informazioni su quali regioni il tuo negozio spedisce."
+
+msgid "Allow adding and updating notes to the order."
+msgstr "Consenti di aggiungere e aggiornare note all'ordine."
+
+msgid "A tool that allows the customer to add or update a note to their order by entering their order number and email address."
+msgstr "Uno strumento che consente al cliente di aggiungere o aggiornare una nota al proprio ordine inserendo il numero dell'ordine e l'indirizzo email."
+
+msgid "Allow updating the shipping address."
+msgstr "Consenti di aggiornare l'indirizzo di spedizione."
+
+msgid "A tool that allows the customer to update the delivery address by entering the order number and email address."
+msgstr "Uno strumento che consente al cliente di aggiornare l'indirizzo di spedizione inserendo il numero dell'ordine e l'indirizzo email."
+
+msgid "Allow product description with sales talk."
+msgstr "Consenti la descrizione del prodotto con discorso di vendita."
+
+msgid "A tool that provides customers with product descriptions in the event of a product inquiry. If there is an existing description for the product, it will be displayed. If not, a response will be crafted by GPT, taking the product title as a reference and responding in the tone of a marketer."
+msgstr "Uno strumento che fornisce ai clienti descrizioni dei prodotti in caso di richiesta di informazioni su un prodotto. Se esiste già una descrizione per il prodotto, verrà visualizzata. In caso contrario, verrà elaborata una risposta da GPT, prendendo come riferimento il titolo del prodotto e rispondendo con il tono di un marketer."
+
+msgid "Save Settings"
+msgstr "Salva Impostazioni"
+
+msgid "Company Preferences"
+msgstr "Preferenze Aziendali"
+
+msgid "Which shipping company is used for delivery?"
+msgstr "Quale azienda di spedizioni viene utilizzata per la consegna?"
+
+msgid "Shipping Company"
+msgstr "Azienda di Spedizioni"
+
+msgid "What are the return policies and how to make a return?"
+msgstr "Quali sono le politiche di reso e come fare un reso?"
+
+msgid "Return Policies"
+msgstr "Politiche di Reso"
+
+msgid "What are the warranty terms?"
+msgstr "Quali sono i termini di garanzia?"
+
+msgid "Warranty Terms"
+msgstr "Termini di Garanzia"
+
+msgid "What is the shipping/delivery time for orders?"
+msgstr "Qual è il tempo di spedizione/consegna per gli ordini?"
+
+msgid "Shipping Time"
+msgstr "Tempo di Spedizione"
+
+msgid "What is the customer service phone number?"
+msgstr "Qual è il numero di telefono del servizio clienti?"
+
+msgid "Customer Service Phone Number"
+msgstr "Numero di Telefono del Servizio Clienti"
+
+msgid "What is the customer service email address?"
+msgstr "Qual è l'indirizzo email del servizio clienti?"
+
+msgid "Customer Service Email Address"
+msgstr "Indirizzo Email del Servizio Clienti"
+
+msgid "What is the minimum purchase amount to qualify for free shipping?"
+msgstr "Qual è l'importo minimo di acquisto per ottenere la spedizione gratuita?"
+
+msgid "Free Shipping Threshold"
+msgstr "Soglia di Spedizione Gratuita"
+
+msgid "When will the refund be credited to bank account?"
+msgstr "Quando verrà accreditato il rimborso sul conto bancario?"
+
+msgid "Refund Duration"
+msgstr "Durata del Rimborso"
+
+msgid "Save Preferences"
+msgstr "Salva Preferenze"
+
+msgid "Customize"
+msgstr "Personalizza"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Choose a theme for the chatbot interface."
+msgstr "Scegli un tema per l'interfaccia del chatbot."
+
+msgid "Chat Button Texts"
+msgstr "Testi del Pulsante di Chat"
+
+msgid "Customize the text for the chat initiation buttons."
+msgstr "Personalizza il testo per i pulsanti di avvio della chat."
+
+msgid "Welcome Title"
+msgstr "Titolo di Benvenuto"
+
+msgid "Title before the chat is started."
+msgstr "Titolo prima che la chat venga avviata."
+
+msgid "Welcome Message Text"
+msgstr "Testo del Messaggio di Benvenuto"
+
+msgid "Information letter in the form before the chat is initiated."
+msgstr "Lettera informativa nel modulo prima che la chat venga avviata."
+
+msgid "Chatbot Title"
+msgstr "Titolo del Chatbot"
+
+msgid "Title when chat is started."
+msgstr "Titolo quando la chat viene avviata."
+
+msgid "First Message or Marketing"
+msgstr "Primo Messaggio o Marketing"
+
+msgid "Add a first message when the chat is started."
+msgstr "Aggiungi un primo messaggio quando la chat viene avviata."
+
+msgid "First Message"
+msgstr "Primo Messaggio"
+
+msgid "Href/Link for First Message"
+msgstr "Href/Link per il Primo Messaggio"
+
+msgid "Save Customize"
+msgstr "Personalizza Salva"
+
+msgid "Welcome to the Setup Wizard"
+msgstr "Benvenuti nella Guida alla Configurazione"
+
+msgid "Your plugin has been successfully activated."
+msgstr "Il tuo plugin è stato attivato con successo."
+
+msgid "If you have chosen one of our \"Advanced\" or \"Enterprise\" packages, please select the \"Premium\" option."
+msgstr "Se hai scelto uno dei nostri pacchetti \"Advanced\" o \"Enterprise\", seleziona l'opzione \"Premium\"."
+
+msgid "If you want to experience Aion Assists for free, you must enter your OpenAI API key. Your license key is generated automatically."
+msgstr "Se vuoi provare Aion Assists gratuitamente, devi inserire la tua chiave API di OpenAI. La tua chiave di licenza viene generata automaticamente."
+
+msgid "Your Plan:"
+msgstr "Il Tuo Piano:"
+
+msgid "License Key:"
+msgstr "Chiave di Licenza:"
+
+msgid "OpenAI API Key:"
+msgstr "Chiave API OpenAI:"
+
+msgid "Company Name:"
+msgstr "Nome Azienda:"
+
+msgid "Website URL:"
+msgstr "URL del Sito Web:"
+
+msgid "License Key"
+msgstr "Chiave di Licenza"
+
+msgid "OpenAI API Key"
+msgstr "Chiave API OpenAI"
+
+msgid "Company Name"
+msgstr "Nome Azienda"
+
+msgid "Complete Installation"
+msgstr "Installazione Completa"
+
+msgid "Your settings have been successfully saved."
+msgstr "Le impostazioni sono state salvate con successo."
+
+msgid "Check if you started the free trial from the \"Plans and Pricing\" page."
+msgstr "Controlla se hai avviato la prova gratuita dalla pagina \"Piani e prezzi\"."
+
+msgid "Click here to start the free trial."
+msgstr "Fare clic qui per avviare la versione di prova gratuita."
+
+msgid "Session Details: "
+msgstr "Dettagli della sessione: "
+
+msgid "Session ID: "
+msgstr "ID sessione: "
+
+msgid "Customer: "
+msgstr "Cliente: "
+
+msgid "Session Started: "
+msgstr "Sessione iniziata: "
+
+msgid "Show Summary"
+msgstr "Mostra riassunto"
+
+msgid "Session Summary: "
+msgstr "Riassunto della sessione: "
+
+msgid "Please enter your name and email address before contacting customer service."
+msgstr "Prima di contattare il servizio clienti, inserisci il tuo nome e il tuo indirizzo email."
+
+msgid "Dashboard"
+msgstr "Cruscotto"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Preferences"
+msgstr "Preferenze"
+
+msgid "Customize"
+msgstr "Personalizza"
+
+msgid "Setup Wizard"
+msgstr "Procedura di Configurazione"
+
+msgid "Hello! How can we help you?"
+msgstr "Ciao! Come possiamo aiutarti?"
+
+msgid "Click to view frequently asked questions."
+msgstr "Clicca per visualizzare le domande frequenti."
+
+msgid "Let's start chat!"
+msgstr "Iniziamo la chat!"
+
+msgid "Your current plan does not support message saving and viewing. To access this feature, you need to upgrade to the 'Enterprise' plan."
+msgstr "Il tuo piano attuale non supporta il salvataggio e la visualizzazione dei messaggi. Per accedere a questa funzionalità, è necessario aggiornare al piano 'Enterprise'."
+
+msgid "Click here to view plans."
+msgstr "Clicca qui per visualizzare i piani."
+
+msgid "To use these features, you need to purchase the plugin."
+msgstr "Per utilizzare queste funzionalità, è necessario acquistare il plugin."
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "FAQ Link"
+msgstr "Link alle domande frequenti"
+
+msgid "Add a link to the FAQ section."
+msgstr "Aggiungi un link alla sezione delle domande frequenti."
+
+msgid "To use all features, you need to upgrade to the enterprise plan."
+msgstr "Per utilizzare tutte le funzionalità, è necessario passare al piano aziendale."
+
